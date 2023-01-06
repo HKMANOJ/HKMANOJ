@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HKMANOJ
-- 👀 I’m interested in Working for Open Source with java 
-- 🌱 I’m currently working on Spingboot microservice (java)
+- 👀 I’m interested in Working for Open Source and Remote job
+- 🌱 I’m currently working on Spingboot microservice
 - 📫 reach me hkmanoj66@gmail.com
 
 <!---
