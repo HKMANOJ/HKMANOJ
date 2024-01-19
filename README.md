@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hkmanoj&label=Profile%20views&color=0e75b6&style=flat" alt="hkmanoj" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hkmanoj" alt="hkmanoj" /></a> </p>
 
 - 🔭 I’m currently working on [TCS](https://www.tcs.com/)
 
