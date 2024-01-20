@@ -4,7 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hkmanoj&label=Profile%20views&color=0e75b6&style=flat" alt="hkmanoj" /> </p>
 
 
-- 🔭 I’m currently working on [TCS](https://www.tcs.com/)
+ 
+- 🔭 I’m currently working on <a href="https://www.tcs.com/" target="_blank" rel="noopener noreferrer">TCS</a>
 
 - 🌱 I’m currently learning **DSA,SpringFramework,React**
 
@@ -14,7 +15,6 @@
 
 - 📫 How to reach me **hkmanoj66@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ngiCOuJOHRTbkdRXZvnwf9MqPBV8cjEc/view?usp=drive_link](https://drive.google.com/file/d/1ngiCOuJOHRTbkdRXZvnwf9MqPBV8cjEc/view?usp=drive_link)
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1ngiCOuJOHRTbkdRXZvnwf9MqPBV8cjEc/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
