@@ -15,6 +15,7 @@
 - 📫 How to reach me **hkmanoj66@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ngiCOuJOHRTbkdRXZvnwf9MqPBV8cjEc/view?usp=drive_link](https://drive.google.com/file/d/1ngiCOuJOHRTbkdRXZvnwf9MqPBV8cjEc/view?usp=drive_link)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1ngiCOuJOHRTbkdRXZvnwf9MqPBV8cjEc/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
