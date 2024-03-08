@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm H K MANOJ</h1>
+![image](https://github.com/HKMANOJ/HKMANOJ/assets/97114741/bd73d757-59cc-4825-aa92-d4ef08508162)<h1 align="center">Hi 👋, I'm H K MANOJ</h1>
 <h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hkmanoj&label=Profile%20views&color=0e75b6&style=flat" alt="hkmanoj" /> </p>
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **hkmanoj66@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1ngiCOuJOHRTbkdRXZvnwf9MqPBV8cjEc/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/drive/folders/1SToT1wYHWULDJWeUpT7x1YjCm4W6SSLI" target="_blank" rel="noopener noreferrer">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
