@@ -1,4 +1,4 @@
-![image](https://github.com/HKMANOJ/HKMANOJ/assets/97114741/bd73d757-59cc-4825-aa92-d4ef08508162)<h1 align="center">Hi 👋, I'm H K MANOJ</h1>
+<h1 align="center">Hi 👋, I'm H K MANOJ</h1>
 <h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hkmanoj&label=Profile%20views&color=0e75b6&style=flat" alt="hkmanoj" /> </p>
