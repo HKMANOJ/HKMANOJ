@@ -11,8 +11,6 @@
 
 - 👯 I’m looking to collaborate on **Open Source Project**
 
-- 👨‍💻 All of my projects are available at [https://hkmanoj.github.io/HK_Protfolio/](https://hkmanoj.github.io/HK_Protfolio/)
-
 - 📫 How to reach me **hkmanoj66@gmail.com**
 
 - 📄 Know about my experiences <a href="https://drive.google.com/drive/folders/1SToT1wYHWULDJWeUpT7x1YjCm4W6SSLI" target="_blank" rel="noopener noreferrer">Resume</a>
